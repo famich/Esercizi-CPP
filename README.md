@@ -4,3 +4,4 @@ NB: in questi esercizi non viene usato il paradigma ad oggetti</br></br>
 
 ChkSudoku (progetto CodeBlocks) - controllo di una matrice Sudoku </br>
 PotenzaBinomio (progetto CodeBlocks) - stampa lo sviluppo della potenza ennesima del binomio (a + b)</br>
+Hanoi (progetto CodeBlocks) - Risoluzione rocorsiva del problema "Torre di Hanoi"</br>
